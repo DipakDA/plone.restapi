@@ -6,6 +6,12 @@ Changelog
 
 New Features:
 
+- Convert all datetime, DateTime and time instances to UTC before serializing.
+  [thet]
+
+- Use python-dateutil instead of DateTime to parse date strings when de-serializing.
+  [thet]
+
 - Allow users to get their own user information.
   [erral]
 
