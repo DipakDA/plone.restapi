@@ -20,7 +20,7 @@ Bugfixes:
 - Fix workflow translations with unicode characters.
   [Gagaro]
 
-- Fix workflow encoding in transition endpoint
+- Fix workflow encoding in transition endpoint.
   [Gagaro]
 
 
